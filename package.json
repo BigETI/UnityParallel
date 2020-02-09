@@ -1,0 +1,18 @@
+{
+    "name": "com.bigeti.parallel",
+    "version": "1.0.0",
+    "displayName": "Parallel library for Unity",
+    "description": "This package contains a parallel library for Unity, which is a wrapper of `System.Threading.Tasks.Parallel`.",
+    "unity": "",
+    "unityRelease": "",
+    "dependencies": {},
+    "keywords": [
+        "parallel"
+    ],
+    "type": "",
+    "author": {
+        "name": "Ethem Kurt",
+        "email": "bigeti.ethem@gmail.com",
+        "url": "https://bigeti.de/"
+    }
+}
